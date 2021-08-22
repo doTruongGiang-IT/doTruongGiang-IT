@@ -1,7 +1,7 @@
 ### Hi there, I'm Do Truong Giang from Viet Nam. 👋👋👋
 
 
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <!--
 **doTruongGiang-IT/doTruongGiang-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
