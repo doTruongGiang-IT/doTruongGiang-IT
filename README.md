@@ -1,5 +1,6 @@
 ### Hi there, I'm Do Truong Giang from Viet Nam. 👋👋👋
-<br />
+<hr />
+
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on ReactJS
