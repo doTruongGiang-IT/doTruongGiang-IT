@@ -1,5 +1,7 @@
 ### Hi there, I'm Do Truong Giang from Viet Nam. 👋👋👋
 
+<img height="100" width="100" src="https://raw.githubusercontent.com/doTruongGiang-IT/doTruongGiang-IT/main/code.gif" />
+
 <hr />
 
 - 🔭 I’m currently working on ReactJS
