@@ -1,6 +1,6 @@
 ### Hi there, I'm Do Truong Giang from Viet Nam. 👋👋👋
 
-<img height="450" width="900" src="https://raw.githubusercontent.com/doTruongGiang-IT/doTruongGiang-IT/main/code.gif" />
+<img height="460" width="900" src="https://raw.githubusercontent.com/doTruongGiang-IT/doTruongGiang-IT/main/code.gif" />
 
 <hr />
 
