@@ -31,7 +31,11 @@
 
 ### ✨ My GitHub Stats
 <hr />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&show_icons=true&theme=radical)
 
 ### ✔ My Top Languages
 <hr />
