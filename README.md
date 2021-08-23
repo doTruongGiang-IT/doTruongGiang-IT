@@ -31,7 +31,7 @@
 
 ### ✨ My GitHub Stats
 <hr />
-<img align="center" alt="doTruongGiang-IT Github Stats" src="https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="doTruongGiang-IT Github Stats" src="https://github-readme-stats.vercel.app/api?username=doTruongGiang-IT&show_icons=true&hide_border=true&theme=dracula" />
 
 ### ✔ My Top Languages
 <hr />
