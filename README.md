@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
-- 📫 How to reach me: dotruonggiang290@gmail.com
+- 📫 How to reach me: [dotruonggiang290@gmail.com]
 
 ### <img height="25" width="25" src="https://github.githubassets.com/images/icons/emoji/octocat.png" /> Languages and Tools
 <hr />
