@@ -35,6 +35,7 @@
 
 ### ✔ My Top Languages
 <hr />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=doTruongGiang-IT" />
 
 <!-- 
 - 😄 Pronouns: ...
