@@ -1,5 +1,18 @@
 ### Hi there, I'm Do Truong Giang from Viet Nam. 👋👋👋
 
+<hr />
+
+- 🔭 I’m currently working on ReactJS
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on ReactJS
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about anything
+- 📫 How to reach me: dotruonggiang290@gmail.com
+- <!--
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Languages and Tools
 <hr />
 <div>
@@ -9,17 +22,3 @@
   <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 </div>
-<!--
-**doTruongGiang-IT/doTruongGiang-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
